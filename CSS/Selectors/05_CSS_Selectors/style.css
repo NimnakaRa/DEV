@@ -1,0 +1,35 @@
+/* * {
+    color: pink;
+} */
+
+/* h1,
+h2 {
+    color: slateblue;
+} */
+
+body {
+    background-color: #f2fa11;
+}
+
+button {
+    font-size: 30px;
+    background-color: #a8dadc;
+}
+
+h1,
+h2 {
+    color: #1d3557;
+}
+
+#signup {
+    background-color: #1d3557;
+    color: aqua;
+}
+
+span {
+    color: coral;
+}
+
+.tag {
+    background-color: crimson;
+}
